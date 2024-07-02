@@ -26,7 +26,6 @@ Containment and Recovery Steps for Organization Defined Alerts
 
 **Document Findings and Close out Incident**
 
-**[[Back to Top]](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)**
 
 # **CUSTOM: Possible Privilege Escalation (Azure Key Vault Critical Credential Retrieval or Update)**
 
@@ -51,7 +50,6 @@ Containment and Recovery Steps for Organization Defined Alerts
 
 **Document Findings and Close out Incident**
 
-# **[[Back to Top]](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)**
 
 # **CUSTOM: CUSTOM: Malware Detected**
 
@@ -74,7 +72,6 @@ Containment and Recovery Steps for Organization Defined Alerts
 
 **Document Findings and Close out Incident**
 
-**[[Back to Top]](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)**
 
 **CUSTOM: Brute Force SUCCESS - Windows and Linux**
 
@@ -100,7 +97,6 @@ Containment and Recovery Steps for Organization Defined Alerts
 
 **Document Findings and Close out Incident**
 
-**[[Back to Top]](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)**
 
 # **CUSTOM: Brute Force SUCCESS - Azure Active Directory**
 
@@ -126,7 +122,6 @@ Containment and Recovery Steps for Organization Defined Alerts
 
 **Document Findings and Close out Incident**
 
-**[[Back to Top]](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)**
 
 # **CUSTOM: Possible Lateral Movement (Excessive Password Resets)**
 
@@ -152,103 +147,3 @@ Containment and Recovery Steps for Organization Defined Alerts
 - Enable MFA
 
 **Document Findings and Close out Incident**
-
-**[[Back to Top]](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)**
-
-# **CUSTOM: Brute Force ATTEMPT - Windows**
-
-**Incident Description**
-
-- ———————— Remaining are Blanke for you to Fill Out if You Like 🙂 ————————
-
-**Initial Response Actions**
-
-- 
-
-**Containment and Recovery**
-
-- 
-
-**Document Findings and Close out Incident**
-
-**[[Back to Top]](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)**
-
-# **CUSTOM: Brute Force ATTEMPT - MS SQL Server**
-
-# ****
-
-**Incident Description**
-
-- 
-
-**Initial Response Actions**
-
-- 
-
-**Containment and Recovery**
-
-- 
-
-**Document Findings and Close out Incident**
-
-**[[Back to Top]](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)**
-
-# **CUSTOM: Brute Force ATTEMPT - Linux Syslog**
-
-# ****
-
-**Incident Description**
-
-- 
-
-**Initial Response Actions**
-
-- 
-
-**Containment and Recovery**
-
-- 
-
-**Document Findings and Close out Incident**
-
-**[[Back to Top]](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)**
-
-# **CUSTOM: Brute Force ATTEMPT - Azure SQL Server**
-
-# ****
-
-**Incident Description**
-
-- 
-
-**Initial Response Actions**
-
-- 
-
-**Containment and Recovery**
-
-- 
-
-**Document Findings and Close out Incident**
-
-**[[Back to Top]](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)**
-
-# **CUSTOM: Brute Force ATTEMPT - Azure Active Directory**
-
-# ****
-
-**Incident Description**
-
-- 
-
-**Initial Response Actions**
-
-- 
-
-**Containment and Recovery**
-
-- 
-
-**Document Findings and Close out Incident**
-
-**[[Back to Top]](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)**
