@@ -71,7 +71,7 @@ Containment and Recovery Steps for Organization Defined Alerts
 **Document Findings and Close out Incident**
 
 
-**CUSTOM: Brute Force SUCCESS - Windows and Linux**
+# **CUSTOM: Brute Force SUCCESS - Windows and Linux**
 
 **Incident Description**
 
