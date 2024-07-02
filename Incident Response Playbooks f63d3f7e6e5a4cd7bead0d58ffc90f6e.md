@@ -22,7 +22,7 @@ Containment and Recovery Steps for Organization Defined Alerts
 - Revoke the Global Administrator role from the affected user account immediately if unintended, otherwise skip to the documentation phase.
 - Check for any other unauthorized role assignments made by the attacker and revoke them if necessary.
 - Identify the root cause of the incident and take corrective actions to prevent similar incidents from occurring in the future.
-- Restore any data or system configurations that may have been affected by the incident. This may involve resetting the Global Administrator password for the affected account and updating the secret in Key Vault
+- Restore any data or system configurations that may have been affected by the incident. This may involve resetting the Global Administrator password for the affected account and updating the secret in Key Vault.
 
 **Document Findings and Close out Incident**
 
@@ -82,18 +82,18 @@ Containment and Recovery Steps for Organization Defined Alerts
 **Initial Response Actions**
 
 - Verify the authenticity of the alert or report.
-- Immediately isolate the machine and change the password of the affected user
-- Identify the origin of the attacks and determine if they are attacking or involved with anything else
-- Determine how and when the attack occurred
-    - Are the NSGs not being locked down? If so, check other NSGs
+- Immediately isolate the machine and change the password of the affected user.
+- Identify the origin of the attacks and determine if they are attacking or involved with anything else.
+- Determine how and when the attack occurred.
+    - Are the NSGs not being locked down? If so, check other NSGs.
 - Assess the potential impact of the incident.
     - What type of account was it? Permissions?
 
 **Containment and Recovery**
 
-- Lock down the NSG assigned to that VM/Subnet, either entirely, or to allow only necessary traffic
-- Reset the affected user’s password
-- Enable MFA
+- Lock down the NSG assigned to that VM/Subnet, either entirely, or to allow only necessary traffic.
+- Reset the affected user’s password.
+- Enable MFA.
 
 **Document Findings and Close out Incident**
 
@@ -102,13 +102,13 @@ Containment and Recovery Steps for Organization Defined Alerts
 
 **Incident Description**
 
-- This incident involves observation of potential brute force success against Azure Active Directory
+- This incident involves observation of potential brute force success against Azure Active Directory.
 
 **Initial Response Actions**
 
 - Verify the authenticity of the alert or report.
-- Immediately identify and Revoke Sessions/Access for affected user
-- Identify the origin of the attacker and determine if they are attacking or involved with anything else
+- Immediately identify and Revoke Sessions/Access for affected user.
+- Identify the origin of the attacker and determine if they are attacking or involved with anything else.
 - Assess the potential impact of the incident.
     - What type of account was it?
     - What Roles did it have?
@@ -116,9 +116,9 @@ Containment and Recovery Steps for Organization Defined Alerts
 
 **Containment and Recovery**
 
-- Reset the affected user’s password and Roles if applicable
-- Enable MFA
-- Consider preventing any logins from outside the US with [Conditional Access](https://portal.azure.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/Policies)
+- Reset the affected user’s password and Roles if applicable.
+- Enable MFA.
+- Consider preventing any logins from outside the US with Conditional Access.
 
 **Document Findings and Close out Incident**
 
@@ -132,8 +132,8 @@ Containment and Recovery Steps for Organization Defined Alerts
 **Initial Response Actions**
 
 - Verify the authenticity of the alert or report.
-- Immediately identify and Revoke Sessions/Access for any affected users
-- Identify the attacker and determine if they are attacking or involved with anything else
+- Immediately identify and Revoke Sessions/Access for any affected users.
+- Identify the attacker and determine if they are attacking or involved with anything else.
 - Observe the target accounts which had their passwords reset.
     - Have any of them immediately logged in or done anything else?
 - Assess the potential impact of the incident.
