@@ -1,7 +1,5 @@
 # Incident Response Playbooks
 
-IR Playbook Table of Contents
-
 Containment and Recovery Steps for Organization Defined Alerts
 
 # **Incident: CUSTOM: Possible Privilege Escalation (Global Admin Role Assignment)**
