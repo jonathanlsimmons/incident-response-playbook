@@ -4,30 +4,6 @@ IR Playbook Table of Contents
 
 Containment and Recovery Steps for Organization Defined Alerts
 
-# [CUSTOM: Possible Privilege Escalation (Global Admin Role Assignment)](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)
-
-# [CUSTOM: Possible Privilege Escalation (Azure Key Vault Critical Credential Retrieval or Update)](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)
-
-# [CUSTOM: Malware Detected](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)
-
-# [CUSTOM: Brute Force SUCCESS - Windows](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)
-
-# [CUSTOM: Brute Force SUCCESS - Linux Syslog](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)
-
-# [CUSTOM: Brute Force SUCCESS - Azure Active Directory](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)
-
-# [CUSTOM: Possible Lateral Movement (Excessive Password Resets)](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)
-
-# [CUSTOM: Brute Force ATTEMPT - Windows](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)
-
-# [CUSTOM: Brute Force ATTEMPT - MS SQL Server](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)
-
-# [CUSTOM: Brute Force ATTEMPT - Linux Syslog](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)
-
-# [CUSTOM: Brute Force ATTEMPT - Azure SQL Server](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)
-
-# [CUSTOM: Brute Force ATTEMPT - Azure Active Directory](https://www.notion.so/Incident-Response-Playbooks-f63d3f7e6e5a4cd7bead0d58ffc90f6e?pvs=21)
-
 # **Incident: CUSTOM: Possible Privilege Escalation (Global Admin Role Assignment)**
 
 **Incident Description**
