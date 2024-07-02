@@ -2,7 +2,7 @@
 
 Containment and Recovery Steps for Organization Defined Alerts
 
-# **Incident: CUSTOM: Possible Privilege Escalation (Global Admin Role Assignment)**
+# **Possible Privilege Escalation (Global Admin Role Assignment)**
 
 **Incident Description**
 
@@ -25,7 +25,7 @@ Containment and Recovery Steps for Organization Defined Alerts
 **Document Findings and Close out Incident**
 
 
-# **CUSTOM: Possible Privilege Escalation (Azure Key Vault Critical Credential Retrieval or Update)**
+# **Possible Privilege Escalation (Azure Key Vault Critical Credential Retrieval or Update)**
 
 **Incident Description**
 
@@ -49,7 +49,7 @@ Containment and Recovery Steps for Organization Defined Alerts
 **Document Findings and Close out Incident**
 
 
-# **CUSTOM: CUSTOM: Malware Detected**
+# **Malware Detected**
 
 **Incident Description**
 
@@ -71,11 +71,11 @@ Containment and Recovery Steps for Organization Defined Alerts
 **Document Findings and Close out Incident**
 
 
-# **CUSTOM: Brute Force SUCCESS - Windows and Linux**
+# **Brute Force SUCCESS - Windows or Linux**
 
 **Incident Description**
 
-- This incident involves observation of potential brute force attempts against a Windows VM.
+- This incident involves observation of potential brute force attempts against a Windows or Linux VM.
 
 **Initial Response Actions**
 
@@ -96,11 +96,11 @@ Containment and Recovery Steps for Organization Defined Alerts
 **Document Findings and Close out Incident**
 
 
-# **CUSTOM: Brute Force SUCCESS - Azure Active Directory**
+# **Brute Force SUCCESS - Azure Entra ID**
 
 **Incident Description**
 
-- This incident involves observation of potential brute force success against Azure Active Directory.
+- This incident involves observation of potential brute force success against Azure Entra ID (Azure Active Directory).
 
 **Initial Response Actions**
 
@@ -121,11 +121,11 @@ Containment and Recovery Steps for Organization Defined Alerts
 **Document Findings and Close out Incident**
 
 
-# **CUSTOM: Possible Lateral Movement (Excessive Password Resets)**
+# **Possible Lateral Movement (Excessive Password Resets)**
 
 **Incident Description**
 
-- This incident involves observation of potential lateral movement based on excessive password resets
+- This incident involves observation of potential lateral movement based on excessive password resets.
 
 **Initial Response Actions**
 
